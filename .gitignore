@@ -1,0 +1,7 @@
+#ignore all files .a .o
+*.[oa]
+#ignore temporary
+*~
+#ignore zip in current dir
+/*.zip
+
